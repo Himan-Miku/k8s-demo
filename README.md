@@ -1,2 +1,2 @@
-Demo Repository while learning Kubernetes 🗿
+Demo Repository while learning Kubernetes
 
